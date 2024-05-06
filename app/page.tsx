@@ -119,10 +119,10 @@ export default function Home() {
                   <p className="pr-5 text-justify">
                     Leonardo is an aspiring software engineer who looks to
                     create products with a positive impact in his community. He
-                    is currently earning his bachelor's degree in Computer
-                    Engineering at Queen's University. Additionally, he is the
-                    incoming Director of External Relations at Canada's premier
-                    organization on Artificial Intelligence,{" "}
+                    is currently earning his bachelors degree in Computer
+                    Engineering at Queen&apos;s University. Additionally, he is
+                    the incoming Director of External Relations at Canada&apos;s
+                    premier organization on Artificial Intelligence,{" "}
                     <a
                       href="https://qmind.ca/"
                       target="none"
