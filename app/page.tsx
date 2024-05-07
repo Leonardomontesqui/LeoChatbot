@@ -136,6 +136,7 @@ export default function Home() {
                     <img
                       src="/assets/me.jpeg"
                       className="border border-gray-200 rounded-md"
+                      alt="Picture of me"
                     />
                   </div>
                 </DialogDescription>
